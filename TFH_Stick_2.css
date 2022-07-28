@@ -15,6 +15,11 @@
 }
 
 
+.fight-stick .fstick {
+    background: url(https://enmadarei.github.io/PinkStick.png)
+}
+
+
 .fight-stick .abxy {
     position: absolute;
     width: 310px;
