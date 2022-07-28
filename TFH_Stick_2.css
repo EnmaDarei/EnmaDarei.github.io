@@ -84,8 +84,8 @@
 
 /*Utility 1 & 2 pressed*/
 .fight-stick .trigger-button.right.pressed, .fight-stick .button.b.pressed {
-    background: #525252;
-	box-shadow: 0 4px 0 2px #303030, 0 4px 0 10px black;
+    background: #838383;
+	box-shadow: 0 4px 0 2px #414141, 0 4px 0 10px black;
 }
 
 /*A*/
