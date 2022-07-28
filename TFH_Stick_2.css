@@ -51,8 +51,8 @@
     left: 0px;
     right: auto;
     top: auto;
-    background: #00708e;
-    box-shadow: 0 4px 0 2px #003744, 0 4px 0 10px black;
+    background: #13657a;
+    box-shadow: 0 4px 0 2px #06303a, 0 4px 0 10px black;
 }
 
 /*D Pressed*/
@@ -85,8 +85,8 @@
 
 /*A*/
 .fight-stick .button.x {
-    background-color: #949200;
-    box-shadow: 0 4px 0 2px #6c6a00, 0 4px 0 10px black;
+    background-color: #7f7e13;
+    box-shadow: 0 4px 0 2px #5d5c0c, 0 4px 0 10px black;
     bottom: 153px;
     left: 0;
     right: auto;
@@ -102,8 +102,8 @@
 
 /*B*/
 .fight-stick .button.y {
-    background-color: #89511b;
-    box-shadow: 0 4px 0 2px #63360b, 0 4px 0 10px black;
+    background-color: #7a5129;
+    box-shadow: 0 4px 0 2px #573515, 0 4px 0 10px black;
     right: 31px;
     bottom: 150px;
     bottom: 202px;
@@ -119,8 +119,8 @@
 
 /*C*/
 .fight-stick .bumper.right {
-    background: #940026;
-    box-shadow: 0 4px 0 2px #440404, 0 4px 0 10px black;
+    background: #7f132f;
+    box-shadow: 0 4px 0 2px #3a0c0c, 0 4px 0 10px black;
     left: 0;
     bottom: 0;
     right: auto;
