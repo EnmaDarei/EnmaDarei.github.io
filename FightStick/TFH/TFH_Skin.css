@@ -17,6 +17,7 @@
 
 .fight-stick .fstick {
     background: url(https://enmadarei.github.io/FightStick/TFH/PinkStick.png);
+    left: 182px;
 }
 
 
@@ -156,7 +157,7 @@
     height: 125px;
     background: black;
     border-radius: 50%;
-    left: 240px;
+    left: 230px;
     top: 247px;
     position: absolute;
     z-index: -1;
