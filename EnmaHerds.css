@@ -18,7 +18,7 @@
 .fight-stick .abxy {
     position: absolute;
     width: 310px;
-    height: 370px;
+    height: 3701px;
     bottom: 75px;
     left: 440px;
     right: auto;
@@ -27,8 +27,7 @@
 .fight-stick .triggers {
     width: 326px;
     /*height: 195px;*/
-    /*height:215px;*/
-    height:225px;
+    height:215px;
     left: 755px;
     bottom: 0;
     right: auto;
@@ -37,7 +36,7 @@
 .fight-stick .bumpers {
     width: 295px;
     /*height: 198px;*/
-    height: 228px;
+    height: 218px;
     left: 755px;
     bottom: 150px;
     right: auto;
@@ -49,8 +48,8 @@
     left: 0px;
     right: auto;
     top: auto;
-    background: #00536a;
-    box-shadow: 0 4px 0 2px #002832, 0 4px 0 10px black;
+    background: #00708e;
+    box-shadow: 0 4px 0 2px #003744, 0 4px 0 10px black;
 }
 
 .fight-stick .button.a.pressed {
@@ -60,8 +59,8 @@
 
 
 .fight-stick .button.b {
-    background: #242424;
-	box-shadow: 0 4px 0 2px #242424, 0 4px 0 10px black;
+    background: #303030;
+	box-shadow: 0 4px 0 2px #1c1c1c, 0 4px 0 10px black;
     bottom: 0;
     bottom: 50px;
     right: 31px;
@@ -75,9 +74,9 @@
 }
 
 .fight-stick .button.x {
-    background-color: #6e6c00;
-    box-shadow: 0 4px 0 2px #504f00, 0 4px 0 10px black;
-    bottom: 153px;
+    background-color: #949200;
+    box-shadow: 0 4px 0 2px #6c6a00, 0 4px 0 10px black;
+    bottom: 150px;
     left: 0;
     right: auto;
     top: auto;
@@ -89,8 +88,8 @@
 }
 
 .fight-stick .button.y {
-    background-color: #663c14;
-    box-shadow: 0 4px 0 2px #4a2808, 0 4px 0 10px black;
+    background-color: #89511b;
+    box-shadow: 0 4px 0 2px #63360b, 0 4px 0 10px black;
     right: 31px;
     bottom: 150px;
     bottom: 202px;
@@ -104,8 +103,8 @@
 }
 
 .fight-stick .bumper.right {
-    background: #6e001f;
-    box-shadow: 0 4px 0 2px #330203, 0 4px 0 10px black;
+    background: #940026;
+    box-shadow: 0 4px 0 2px #440404, 0 4px 0 10px black;
     left: 0;
     bottom: 0;
     right: auto;
@@ -119,8 +118,8 @@
 
 .fight-stick .trigger-button.right {
     float: left;
-    background: #242424;
-	box-shadow: 0 4px 0 2px #151515, 0 4px 0 10px black;
+    background: #303030;
+	box-shadow: 0 4px 0 2px #1c1c1c, 0 4px 0 10px black;
 }
 
 .fight-stick .bumper.left, .fight-stick .trigger-button.left { display: none; }
