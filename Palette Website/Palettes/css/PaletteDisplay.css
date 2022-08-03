@@ -1,0 +1,44 @@
+.display{
+	width:700px;
+	/*height:550px;*/
+	/*background:green;*/
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.char{
+display:block;
+position:relative;
+z-index:1;
+/*background:yellow;*/
+width:370px;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+.buttons{
+margin-left:auto;
+margin-right:auto;
+display:block;
+z-index:2;
+position:relative;
+margin-bottom:50px;
+}
+	
+.name{
+	display:block;
+	position:relative;
+	margin-top:-105px;
+	margin-left:auto;
+	margin-right:auto;
+	color:white;
+	font-family: Josefin Sans;
+	font-size:23px;
+	padding-top:4px;
+	text-align:center;
+	border-radius:10px;
+	background-color:rgba(0, 0, 0, 0.7);
+	width:400px;
+	z-index:3;
+}
